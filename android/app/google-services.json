@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122343343767",
+    "project_id": "app-web-aa0f1",
+    "storage_bucket": "app-web-aa0f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122343343767:android:eb0d8486dadc5e6d344bd2",
+        "android_client_info": {
+          "package_name": "com.sixamtech.stack_food_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XrTLUX_D_6YuVE5GbICJuxeIvDfcCGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
